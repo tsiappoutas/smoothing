@@ -1,0 +1,2 @@
+# smoothing
+Jump Smoothing Algorithm
